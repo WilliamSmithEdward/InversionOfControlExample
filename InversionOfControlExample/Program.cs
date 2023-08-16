@@ -2,7 +2,6 @@
 //2023-08-16
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Configuration.Json;
 using Microsoft.Extensions.Options;
 
 namespace InversionOfControlExample
